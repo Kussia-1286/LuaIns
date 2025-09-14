@@ -12,7 +12,7 @@ function main()
 
   while true do
     wait(0)
-  end
+  
 end
 
 -- Эта функция вызывается, когда в чате вводится команда "/enter"
